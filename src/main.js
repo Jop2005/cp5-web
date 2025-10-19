@@ -6,9 +6,7 @@ import App from './App.vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 
-// Estilos personalizados
-import '@/assets/styles/variables.css'
-import '@/assets/styles/main.css'
+
 
 console.log('🚀 Iniciando aplicación...')
 
